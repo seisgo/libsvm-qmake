@@ -8,7 +8,7 @@ include(../../platform/config.pri)
 LIBS += -L$$DISTPATH/lib -lsvm
 
 INCLUDEPATH += ../../src/svm
-INCLUDEPATH += ../../src/svm
+DEPENDPATH += ../../src/svm
 
 SOURCES += svm-predict.c
 
