@@ -17,4 +17,4 @@
 *.RTF	 diff=astextplain
 
 #
-Makefile linguist-language=C
+Makefile linguist-language=C++
