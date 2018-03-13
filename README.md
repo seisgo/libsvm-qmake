@@ -1,5 +1,5 @@
 # libsvm-qmake
-Qt Projects of *LIBSVM*
+Qt Projects of [*LIBSVM*](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 - This is a project organizing LIBSVM c/c++ source code in QtCreator and building with qmake
 
